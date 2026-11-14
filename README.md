@@ -64,6 +64,7 @@ the website that publishes the work of the Spanish-speaking **CrackSLatinoS** gr
 
 | Project | What it does | Stack |
 | --- | --- | --- |
+| **[PausaPatch](https://github.com/BakasuraRCE/PausaPatch)** | Native Windows 11 utility to pause or restore automatic updates from a single toggle: services, DLL renames, `NoAutoUpdate` policy and scheduled tasks, with live status, tray icon and 8 languages. | `Rust` `WinUI 3` `Windows` |
 | **[spotweb-docker](https://github.com/BakasuraRCE/spotweb-docker)** | Rootless Spotweb container on OpenLiteSpeed + PHP 8.2, with automatic database schema migration at startup. | `Docker` `PHP` |
 | **[phpbb-image-compressor](https://github.com/BakasuraRCE/phpbb-ext-image-compressor)** | Hooks the phpBB upload event and runs PNG attachments through pngquant transparently, updating stored size metadata. | `PHP` `phpBB` |
 | **[phpbb-xforwardedfor](https://github.com/BakasuraRCE/phpbb-ext-xforwardedfor)** | Real client IP logging behind reverse proxies — Cloudflare `CF-Connecting-IP` and `X-Forwarded-For` per RFC 7239. | `PHP` `phpBB` |
