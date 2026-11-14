@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="780" alt="bakasura — reverse engineer / programmer. root@bakasura:~$ cat name.txt" />
+<a href="https://bakasura.im"><img src="assets/banner.svg" width="780" alt="bakasura — reverse engineer / programmer. root@bakasura:~$ cat name.txt" /></a>
 
 <p><strong>Reverse Engineer / Programmer</strong><br />
 <em>Everything else is a target.</em></p>
