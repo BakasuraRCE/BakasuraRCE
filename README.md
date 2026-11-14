@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="assets/avatar.png" width="168" alt="Bakasura" />
-
-<h1>Bakasura</h1>
+<img src="assets/banner.svg" width="780" alt="bakasura — reverse engineer / programmer. root@bakasura:~$ cat name.txt" />
 
 <p><strong>Reverse Engineer / Programmer</strong><br />
 <em>Everything else is a target.</em></p>
@@ -15,16 +13,6 @@
 </p>
 
 </div>
-
-```text
-root@bakasura:~$ whoami
-bakasura
-root@bakasura:~$ cat /etc/profile
-; file:    bakasura.im
-; magic:   0x42414B41
-; arch:    Human / RE + tooling  ·  [MAINTAINED]
-; status:  unpacking, patching, shipping
-```
 
 ## // ABOUT
 
@@ -119,8 +107,6 @@ the website that publishes the work of the Spanish-speaking **CrackSLatinoS** gr
 <a href="https://x.com/BakasuraRCE"><img src="https://img.shields.io/badge/x-@BakasuraRCE-050505?style=for-the-badge&amp;logo=x&amp;logoColor=00FF41" alt="X" /></a>
 <a href="https://discord.com/users/bakasurarce"><img src="https://img.shields.io/badge/discord-bakasurarce-050505?style=for-the-badge&amp;logo=discord&amp;logoColor=00FF41" alt="Discord" /></a>
 <a href="mailto:contact@bakasura.im"><img src="https://img.shields.io/badge/mail-contact@bakasura.im-050505?style=for-the-badge&amp;logo=protonmail&amp;logoColor=00FF41" alt="Email" /></a>
-
-<sub><code>contact [at] bakasura [dot] im</code></sub>
 
 </div>
 
