@@ -28,15 +28,15 @@ the website that publishes the work of the Spanish-speaking **CrackSLatinoS** gr
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-050505?style=flat-square&amp;logo=python&amp;logoColor=00FF41" alt="Python" />
-<img src="https://img.shields.io/badge/C-050505?style=flat-square&amp;logo=c&amp;logoColor=00FF41" alt="C" />
-<img src="https://img.shields.io/badge/C++-050505?style=flat-square&amp;logo=cplusplus&amp;logoColor=00FF41" alt="C++" />
-<img src="https://img.shields.io/badge/PHP-050505?style=flat-square&amp;logo=php&amp;logoColor=00FF41" alt="PHP" />
-<img src="https://img.shields.io/badge/Delphi-050505?style=flat-square&amp;logo=delphi&amp;logoColor=00FF41" alt="Delphi" />
-<img src="https://img.shields.io/badge/Qt-050505?style=flat-square&amp;logo=qt&amp;logoColor=00FF41" alt="Qt" />
-<img src="https://img.shields.io/badge/Docker-050505?style=flat-square&amp;logo=docker&amp;logoColor=00FF41" alt="Docker" />
-<img src="https://img.shields.io/badge/Linux-050505?style=flat-square&amp;logo=linux&amp;logoColor=00FF41" alt="Linux" />
-<img src="https://img.shields.io/badge/Git-050505?style=flat-square&amp;logo=git&amp;logoColor=00FF41" alt="Git" />
+<a href="https://github.com/BakasuraRCE?tab=repositories&amp;q=&amp;type=&amp;language=python&amp;sort="><img src="https://img.shields.io/badge/Python-050505?style=flat-square&amp;logo=python&amp;logoColor=00FF41" alt="Python" /></a>
+<a href="https://github.com/BakasuraRCE?tab=repositories&amp;q=&amp;type=&amp;language=c&amp;sort="><img src="https://img.shields.io/badge/C-050505?style=flat-square&amp;logo=c&amp;logoColor=00FF41" alt="C" /></a>
+<a href="https://github.com/BakasuraRCE?tab=repositories&amp;q=&amp;type=&amp;language=c%2B%2B&amp;sort="><img src="https://img.shields.io/badge/C++-050505?style=flat-square&amp;logo=cplusplus&amp;logoColor=00FF41" alt="C++" /></a>
+<a href="https://github.com/BakasuraRCE?tab=repositories&amp;q=&amp;type=&amp;language=php&amp;sort="><img src="https://img.shields.io/badge/PHP-050505?style=flat-square&amp;logo=php&amp;logoColor=00FF41" alt="PHP" /></a>
+<a href="https://github.com/BakasuraRCE?tab=repositories&amp;q=&amp;type=&amp;language=pascal&amp;sort="><img src="https://img.shields.io/badge/Delphi-050505?style=flat-square&amp;logo=delphi&amp;logoColor=00FF41" alt="Delphi" /></a>
+<a href="https://github.com/BakasuraRCE?tab=repositories&amp;q=&amp;type=&amp;language=c%2B%2B&amp;sort="><img src="https://img.shields.io/badge/Qt-050505?style=flat-square&amp;logo=qt&amp;logoColor=00FF41" alt="Qt" /></a>
+<a href="https://github.com/BakasuraRCE?tab=repositories&amp;q=&amp;type=&amp;language=dockerfile&amp;sort="><img src="https://img.shields.io/badge/Docker-050505?style=flat-square&amp;logo=docker&amp;logoColor=00FF41" alt="Docker" /></a>
+<a href="https://github.com/BakasuraRCE?tab=repositories&amp;q=&amp;type=&amp;language=&amp;sort="><img src="https://img.shields.io/badge/Linux-050505?style=flat-square&amp;logo=linux&amp;logoColor=00FF41" alt="Linux" /></a>
+<a href="https://github.com/BakasuraRCE?tab=repositories&amp;q=&amp;type=&amp;language=&amp;sort="><img src="https://img.shields.io/badge/Git-050505?style=flat-square&amp;logo=git&amp;logoColor=00FF41" alt="Git" /></a>
 
 </div>
 
